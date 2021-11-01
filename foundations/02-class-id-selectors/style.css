@@ -1,0 +1,18 @@
+#num1 {
+  font-size: 60px;
+  color: blue
+}
+
+#num2 {
+  background-color: greenyellow;
+  font-size: large;
+  font-weight: bold;
+}
+
+.red {
+  background-color: red;
+}
+
+.red.larger {
+  font-size: large;
+}
